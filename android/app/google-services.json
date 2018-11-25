@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "9652709628",
+    "firebase_url": "https://bbrecord-3ff35.firebaseio.com",
+    "project_id": "bbrecord-3ff35",
+    "storage_bucket": "bbrecord-3ff35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9652709628:android:3021117eb15a899a",
+        "android_client_info": {
+          "package_name": "com.example.proyectoflutterbbrecord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9652709628-apesf59hr9fur24kg9e2cf13cjomj56a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhPIW1DeKVod8CR6zGlYnwIhzqemQP7ww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
